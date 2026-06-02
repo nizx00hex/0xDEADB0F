@@ -1,0 +1,14 @@
+# Python venv
+pwn-venv/
+venv/
+.env/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# Binaries (optional)
+*.o
+
+# Core dumps
+core.*
